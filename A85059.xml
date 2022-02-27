@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A further account of the actions done at the siege on Mons Published by authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85059</idno>
+            <idno type="STC">Wing F2543A</idno>
+            <idno type="STC">ESTC R225120</idno>
+            <idno type="EEBO-CITATION">99895634</idno>
+            <idno type="PROQUEST">99895634</idno>
+            <idno type="VID">153236</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85059)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153236)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2355:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A further account of the actions done at the siege on Mons Published by authority.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>re-printed in the year, 1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grand Alliance, War of the, 1689-1697 --  Campaigns --  Belgium --  Early works to 1800.</term>
+               <term>Mons (Belgium) --  History --  Siege, 1691 --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:153236:1" rendition="simple:additions"/>
+            <head>A Further ACCOUNT Of the Actions done at the Siege of MONS.</head>
+            <head type="sub">Publiſhed by Authority.</head>
+            <p>
+               <label>
+                  <hi>PAris, March</hi> 27.</label> We have Advice of the arrival of the French Galleys before <hi>Nizza,</hi> and of Monſieur <hi>Catinat</hi>'s having taken two ſmall Redoubts near that place, but that a Reinforcement of 800 Men, with a conſiderable quantity of Proviſions and Ammu<g ref="char:EOLhyphen"/>nition, was got into the Caſtle in the ſight of our Troops, which had ſo diſcouraged them, that it was thought they would not attempt it, but only attack <hi>Villa-Franca,</hi> where they expected to meet with leſs oppoſi<g ref="char:EOLhyphen"/>tion. They write from <hi>Piedmont,</hi> that 2000 German Horſe had deſtroy<g ref="char:EOLhyphen"/>ed all the Forrage about <hi>Pignerol,</hi> which the Governour of that place de<g ref="char:EOLhyphen"/>ſigned to have got together for the uſe of the French Troops, and that they had beaten ſeveral Parties of that Garriſon which were ſent out to oppoſe them, two <hi>French</hi> Captains being, amongſt others, taken Pri<g ref="char:EOLhyphen"/>ſoners.</p>
+            <p>
+               <label>
+                  <hi>Bruſsels, March</hi> 31.</label> We hear by a Perſon that came hither yeſterday from the Camp before <hi>Mons,</hi> that the French after having been four ſeve<g ref="char:EOLhyphen"/>ral times repulſed in the Attack they made on St. <hi>Peters</hi> Mill, with the loſs of a great many Men, had at laſt on the 27th Inſtant made them<g ref="char:EOLhyphen"/>ſelves Maſters of it, but that the Beſieged re-took it the next day, and were ſtill in Poſſeſſion thereof when he came away. That the Enemy had 40 pieces of Cannon and divers Mortars in Battery towards the Gate of <hi>Barlemont,</hi> but that their Cannon had not yet made any Breach, nor their Bombs and Careaſſes done any great harm to the Town. That on the 29th the <hi>French</hi> made a great Attack upon a Horn-work towards the ſaid Gate of <hi>Barlemont,</hi> but were beaten off with very great loſs; He ſays likewiſe, that the Enemies Troops are continually moving from one ſide of their Camp to another, and that they plainly diſcover the uneaſi<g ref="char:EOLhyphen"/>neſs they are in upon the News of His Majeſty of <hi>Great-Britain's</hi> approach for the Relief of the Place.</p>
+            <p>
+               <label>
+                  <hi>Hague, April</hi> 3.</label> All our Advices from <hi>Flanders</hi> ſay, that the Town of <hi>Mons</hi> makes a very good Defence, the Beſieged being very reſolute and unanimous; That the Mill was ſeveral times taken and re-taken, and was at laſt blown up by our Men, when they found it could be no long<g ref="char:EOLhyphen"/>er maintained, but what was ſaid of Monſieur <hi>Vauban</hi>'s being killed, is
+<pb n="2" facs="tcp:153236:2" rendition="simple:additions"/> not confirmed. On the 29th the Enemy made a great Attack upon an Out-work near the Gate of <hi>Barlemont</hi> but were repulſed with very conſi<g ref="char:EOLhyphen"/>derable loſs; They reckon that above 1000 of the <hi>French</hi> were killed in that Aſſault, and in three Sallies which the Beſieged made quickly af<g ref="char:EOLhyphen"/>ter. The Enemies Bombs have done little harm to the Town, having for the moſt part burſt in the Air before they reached the place.</p>
+            <p>The King went on Sunday laſt from <hi>Breda</hi> to <hi>Vilvord,</hi> from whence His Majeſty would go in a day or two to the Army, which has its general Rendezvous at <hi>Hall,</hi> about 2 Leagues beyond <hi>Bruſſels,</hi> in the way to<g ref="char:EOLhyphen"/>wards <hi>Mons.</hi> The Elector of <hi>Bavaria</hi> is ſtill here.</p>
+            <p>
+               <label>
+                  <hi>Bruſſels, April</hi> 1.</label> The Troops of the Elector of <hi>Brandenburgh,</hi> to the number of 11000 Men are arrived in our Neighbourhood, and yeſter<g ref="char:EOLhyphen"/>day our Army began to encamp between this place and <hi>Hall,</hi> where by Wedneſday next there will be together near 50000 Men. In the mean time the news we have of the Siege of <hi>Mons</hi> is, that the French ſpent the firſt 8 or 10 days in raiſing their Lines, and fortifying their Camp, with<g ref="char:EOLhyphen"/>out making any attack, but ſince the opening of their Trenches, they puſh on the Siege with all the vigor they are able; and on the other ſide the Be<g ref="char:EOLhyphen"/>ſieged defend themſelves as vigorouſly, being greatly encouraged by the ex<g ref="char:EOLhyphen"/>pectation of ſpeedy Succour, of which notice has been given them by ſome Officers that got into the Town, The Mill of St. <hi>Peter</hi> was taken and reta<g ref="char:EOLhyphen"/>ken 5 ſeveral times, and at laſt quitted and demoliſhed by our Men. And on the 29th the Enemy made an Aſſault upon a Half Moon which covers the Horn-Work towards the Gate of <hi>Barlemont,</hi> (on which ſide only they attack the Town) but were repulſed with great loſs. The king of <hi>En<g ref="char:EOLhyphen"/>land</hi> is expected this Evening at <hi>Vilvord,</hi> where His Majeſty will be met by the Duke of <hi>Zell,</hi> Prince <hi>Waldeck,</hi> and the other Generals.</p>
+            <p>
+               <label>
+                  <hi>Vilvord, April</hi> 2.</label> The King arrived here laſt night, and on Wedneſday next His Majeſty will go and Head the Army at <hi>Hall,</hi> from whence they may march in 3 or 4 days to <hi>Mons.</hi> The Enemy in the mean time make no eaſie advances in this Siege; The taking of St. <hi>Peters</hi> Mill coſt them a great many Men, and after all, it was retaken by the Beſieged, and demoliſhed by them. On Thurſday the French attack'd an Outwork near the Gate of <hi>Barlemont,</hi> but were repulſed with the loſs of 4 or 500 Men; but we hear this day, that in a ſecond attack they have taken it, the Enemy preſſing the Siege with their utmoſt ſtrength and vigor becauſe of the approaching Succour. But the bravery with which the Beſieged defend themſelves, give us hopes they may hold out till the Succours come up to their Relief.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Re-Printed in the Year, 1691.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
